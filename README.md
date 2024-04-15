@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ting Hsuan Hsu, or just Cody</h1>
+<h1 align="center">Hi 👋, I'm  Cody</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyhsu&label=Profile%20views&color=0e75b6&style=flat" alt="codyhsu" /> </p>
