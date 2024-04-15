@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm  Cody</h1>
+<h1 align="center">Hi 👋 I'm  Cody</h1>
 <h3 align="center">Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyhsu&label=Profile%20views&color=0e75b6&style=flat" alt="codyhsu" /> </p>
 
-- 🔭 I’m currently studying in **Master in Digital Management**
+- 🔭 I’m studying in **Master in Digital Management**
 
 - 🎤 I'm living in **Cologne, Germany** and speak fluent **Mandarin, English, German**
 
-- 🌱 I’m currently looking for **an internship/ a traineeship/ a workstudent job** for **data/business analysis** in any field
+- 🌱 I’m currently looking for **an internship/ a traineeship/ a workstudent job** for **data/business analysis** in any field 
 
-- 👨‍💻 All of my projects are available at [Github Data Analysis](https://github.com/codyhsu/data_analysis)
+- 👨‍💻 All of my data projects are available at [Github Data Analysis](https://github.com/codyhsu/data_analysis) _(still in Progress😏)_
 
-- 📫 How to reach me **ting-hsuan.hsu@stud.hs-fresenius.de**
-
-- ⚡ Fun fact: I used to teach English and only have one kidney
+- ⚡ Fun fact: I am herbivore, a dog person and I drew the profile pic :D 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
