@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ting Hsuan Hsu, or just Cody</h1>
 <h3 align="center">Data Analyst</h3>
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyhsu&label=Profile%20views&color=0e75b6&style=flat" alt="codyhsu" /> </p>
 
