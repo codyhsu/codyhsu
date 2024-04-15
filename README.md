@@ -4,23 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyhsu&label=Profile%20views&color=0e75b6&style=flat" alt="codyhsu" /> </p>
 
-- 🔭 I’m currently working on **abc**
+- 🔭 I’m currently studying in **Master in Digital Management**
 
-- 🌱 I’m currently learning **abc**
+- 🎤 I'm living in **Cologne, Germany** and speak fluent **Mandarin, English, German**
 
-- 👯 I’m looking to collaborate on **abc**
+- 🌱 I’m currently looking for **an internship/ a traineeship/ a workstudent job** for **data/business analysis** in any field
 
-- 🤝 I’m looking for help with **abc**
+- 👨‍💻 All of my projects are available at [Github Data Analysis](https://github.com/codyhsu/data_analysis)
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 📫 How to reach me **ting-hsuan.hsu@stud.hs-fresenius.de**
 
-- 💬 Ask me about **haha**
-
-- 📫 How to reach me **codyhsu0929@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
-
-- ⚡ Fun fact **I am from Taiwan**
+- ⚡ Fun fact: I used to teach English and only have one kidney
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
