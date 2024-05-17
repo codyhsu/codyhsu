@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyhsu&label=Profile%20views&color=0e75b6&style=flat" alt="codyhsu" /> </p>
 
-- 🔭 Database, Data Analysis and Data Vizz
+- 🔭 EDA Analysis, Database, Data Vizz
 
 - 🎤 Completed Google Data Analytics Certificate Courses ☕
 
 - 🌱 Currently looking for **an internship/ a traineeship/ a workstudent job** for **data/business analysis** in Cologne/ Bonn / Düsseldorf 
 
-- 👨‍💻 All of my data projects are available at [Github Data Analysis](https://github.com/codyhsu/data_analysis) _(still in Progress😏)_
-
+- 👨‍💻 My data project porfolio are available [HERE](https://codyhsu.github.io/data_analysis/)
 - ⚡ Fun fact: I am a herbivore, a dog person and I drew the profile pic :D 
 
 <h3 align="left">Connect with me:</h3>
